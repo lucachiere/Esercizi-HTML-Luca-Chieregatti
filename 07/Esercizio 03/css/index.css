@@ -1,0 +1,31 @@
+		.uno{
+			background-color: orange;
+			border: 2px solid black;
+			padding-top: 15px;
+			padding-bottom: 15px;
+			text-align: center;
+		}
+		.due{
+			display: inline-block;
+			background-color: #0099FF;
+			border: 2px solid black;
+			padding: 10px;
+			width: 245px;	
+		}
+		.tre{
+			margin-top: 20px;
+			margin-left: 30px;
+			display: inline-block;
+			float: right;
+			margin-left: 0px;
+			}
+		.quattro{
+				text-align: center;
+				width: 245px;
+				background-color: #0099FF;
+				border: 2px solid black;
+				padding: 10px;
+				margin-left: 0px;
+				font-size: 30px;
+			}
+		
